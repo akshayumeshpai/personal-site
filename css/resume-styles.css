@@ -1,0 +1,31 @@
+/*Tag Styles*/
+img{
+  width: 150px;
+  height: 160px;
+}
+body{
+  background-color: #fdedec;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+h2{
+  color: #cd6155;
+}
+h1{
+  color: #cd6155;
+}
+
+/*Class Styles*/
+.DisplayImage{
+  border-radius: 100%;
+}
+
+/*id Style with the use of super style type(hover)*/
+#tablecolor:hover{
+  background-color:  #fadbd8;
+}
